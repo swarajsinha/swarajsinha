@@ -4,7 +4,7 @@
 
 **Engineering student (3rd year) · Python · Web development · AI tools**
 
-📍 India · 📧 [your-email@example.com] · 💼 [LinkedIn](https://www.linkedin.com/in/swaraj-sinha-4889a7214)
+📍 India · 📧 [18swarajsinha@gmail.com](mailto:18swarajsinha@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/swaraj-sinha-4889a7214)
 
 </div>
 
