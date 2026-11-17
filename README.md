@@ -2,9 +2,9 @@
 
 # Hi, I'm Swaraj Sinha 👋
 
-**Engineering student (3rd year) · Python · Web development · AI tools**
+**CSE (Core) student at VIT Bhopal · 3rd year · Python · Web development · AI tools**
 
-📍 India · 📧 [18swarajsinha@gmail.com](mailto:18swarajsinha@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/swaraj-sinha-4889a7214)
+📍 Mumbai, India · 📧 [18swarajsinha@gmail.com](mailto:18swarajsinha@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/swaraj-sinha-4889a7214)
 
 </div>
 
@@ -12,9 +12,8 @@
 
 ### 🎓 About Me
 
-- 🎓 3rd-year engineering student, [Branch] at [College Name]
+- 🎓 3rd-year B.Tech student, Computer Science & Engineering (Core) at VIT Bhopal University (2024–2028)
 - 💻 Interested in Python, web development and AI agents
-- 🌱 Currently learning: [e.g. Data Structures, React, Machine Learning]
 - 🤝 Open to internships and open-source collaboration
 - ⚽ Off screen: football and coffee
 
@@ -48,9 +47,9 @@ Helped set up and deploy a group of live educational websites for **Infinity Dig
 
 ### 🛠️ Skills
 
-**Languages:** Python · JavaScript · HTML · CSS · [C / C++ / Java]
-**Tools:** Git · GitHub · Cloudflare Pages · VS Code
-**Learning:** [AI agents · React · etc.]
+**Languages:** Python · JavaScript · HTML · CSS  
+**Tools:** Git · GitHub · Cloudflare Pages · VS Code  
+**Exploring:** AI agents
 
 ---
 
